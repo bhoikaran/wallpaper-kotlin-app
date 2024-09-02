@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00499D</color>
+    <color name="colorPrimaryDark">#034EA2</color>
+    <color name="colorAccent">#034EA2</color>
+    <color name="colorBackGround">#FFFFFF</color>
+    <color name="colorNoRecords">#FFFFFF</color>
+    <color name="colorBlue">#034EA2</color>
+    <color name="outrageous_orange">#FD632D</color>
+    <color name="color_green">#12A940</color>
+
+    <color name="colorRed">#FFFF0000</color>
+    <color name="colorGrey">#848484</color>
+    <color name="colorGreyLight">#999999</color>
+    <color name="colorButton">#F44236</color>
+    <color name="color_light_blue">#D0D9DD</color>
+    <color name="color_text">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="color_card_background">#FFFFFF</color>
+    <color name="color_subtitle">#000000</color>
+    <color name="color_greylight_white">#999999</color>
+    <color name="color_divider">#aaaaaa</color>
+    <color name="color_blue">#004097</color>
+    <color name="colorGreyText">#ADAEAD</color>
+    <color name="black">#FF000000</color>
+    <color name="color_drawer_icon">#004097</color>
+    <color name="color_gray_light">#D4D4D4</color>
+    <color name="color_light_black">#222222</color>
+    <color name="color_selectDots">#004097</color>
+    <color name="color_unselectDots">#ABABAB</color>
+    <color name="colorBrown">#ff6b67</color>
+    <color name="color_orange">#FF860D</color>
+    <color name="color_search_grey_text">#A1A2A7</color>
+    <color name="color_yellow">#FF860D</color>
+    <color name="color_event_title">#0B214D</color>
+    <color name="color_search_background">#f0f6fc</color>
+    <color name="color_tab_background">#EDEEF6</color>
+    <color name="color_background">#E1E1E6</color>
+    <color name="textColorBlue">#172C56</color>
+
+
+    <color name="color_media_center_background">#DBDDEB</color>
+    <color name="color_media_tab_background">#EEEEF6</color>
+    <color name="colorHomeBGLight">#f0f6fc</color>
+    <color name="color_photo_gallery_background">#DCDEEC</color>
+    <color name="colorLightGray">#E1DFDF</color>
+
+    <color name="color_add_player">#F44336</color>
+    <color name="color_active_status">#4BB809</color>
+    <color name="color_email_id_section">#EDEFF9</color>
+    <color name="textColorGameName">#1E378E</color>
+    <color name="textColorTeamName">#081E4B</color>
+    <color name="certificate_cardview_color">#F1CB64</color>
+    <color name="color_light_blue_background">#DDE4ED</color>
+    <color name="color_academy_cardview">#F5F5F5</color>
+    <color name="color_top_ranking_cardview">#FF8900</color>
+    <color name="color_top_ranking_sport">#FFDB96</color>
+
+    <color name="color_indicator_inactive">#878787</color>
+    <color name="color_normal_tab">#4E79CD</color>
+    <color name="color_normal_tab_text">#4E79CD</color>
+    <color name="light_black">#DA222222</color>
+    <color name="color_hint">#B4B4B4</color>
+    <color name="dark_gray">#bababa</color>
+    <color name="color_error">#CC212C</color>
+    <color name="color_profile_bg">#3981D2</color>
+    <color name="color_code_rank_bg">#ff8900</color>
+    <color name="color_player_text">#797979</color>
+    <color name="color_medal_detail_bg">#003792</color>
+    <color name="color_player_detail_value">#00479C</color>
+    <color name="color_label_text">#080636</color>
+
+    <color name="athens_gray">#E8EEF3</color>
+    <color name="color_menu_activity">#ff9a72</color>
+    <color name="color_orange_light">#FFCDCC</color>
+    <color name="grey_600">#777777</color>
+</resources>
