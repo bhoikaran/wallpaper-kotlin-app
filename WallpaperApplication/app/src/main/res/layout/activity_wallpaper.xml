@@ -21,11 +21,11 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="10dp"
         android:background="@color/light_black"
-        android:src="@drawable/back_arrow"
-        app:tint="@color/color_white"
         android:backgroundTint="@android:color/transparent"
+        android:src="@drawable/back_arrow"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/color_white" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -37,32 +37,31 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_set_wallpaper"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_marginHorizontal="5dp"
             android:layout_weight="1"
-            android:background="@drawable/buton_background"
+            android:background="@drawable/custom_btn_bg"
             android:padding="5dp"
             android:text="@string/text_set_wallpaper"
             android:textAllCaps="false"
-            android:textStyle="bold"
-            app:backgroundTint="@color/color_yellow" />
+            android:textColor="@color/color_white"
+            android:textStyle="bold" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_download_wallpaper"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_marginHorizontal="5dp"
             android:layout_weight="1"
-            android:background="@drawable/buton_background"
-
+            android:background="@drawable/custom_btn_bg"
             android:padding="5dp"
             android:text="@string/text_download_wallpaper"
             android:textAllCaps="false"
-            android:textStyle="bold"
-            app:backgroundTint="@color/color_yellow" />
+            android:textColor="@color/color_white"
+            android:textStyle="bold" />
     </LinearLayout>
 
 
